@@ -1,6 +1,6 @@
 # 446-search-engines
-solutions to CS 446 Search Engines assignments
+This repository includes solutions to some of the CS 446 Search Engines assignments from the Spring 2014 offering.
 
-class taken in Spring 2014
+Some of the solutions were written in Python, others were written in Java
 
-(this was my first time using Python!)
+This semester was the first time I ever used Python!
